@@ -1,6 +1,6 @@
 # 💻 E-Learning Platform – Desktop Website UI Design
 
-![E-Learning Platform](fc21d9c4-a8ea-4e92-afa4-f1cb2768a16c.png)
+![E-Learning Platform]([fc21d9c4-a8ea-4e92-afa4-f1cb2768a16c.png](https://github.com/mohana-g/E-Learning-Portal-Design/blob/main/E%20Learning%20Platform.png))
 
 ## 📌 About the Design  
 The **E-Learning Platform** is a desktop-first user interface designed to provide an intuitive and seamless online learning experience. The interface is clean, responsive, and tailored for students to explore courses, take quizzes, and track their learning progress.
