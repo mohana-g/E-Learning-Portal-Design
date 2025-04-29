@@ -30,7 +30,7 @@ The **E-Learning Platform** is a desktop-first user interface designed to provid
 ---
 
 ## 🔗 View the Interactive Prototype  
-👉 [Click here to explore the E-Learning Platform prototype](https://www.figma.com/proto/LLZNuII6YY2BS9OuHYct9E/E-Learning-Platform?node-id=0-1&t=IrYjD47gnBYcDk1F-1)
+👉 [Click here to explore the E-Learning Platform prototype](https://www.figma.com/proto/LLZNuII6YY2BS9OuHYct9E/E-Learning-Platform?node-id=0-1&t=w9shbYhdph4bxEFk-1)
 
 ---
 
